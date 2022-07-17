@@ -11,7 +11,7 @@ Determined the number of retiring employees per title, and identified employees 
 - There are a total of 72,458 employees that are close to retirement.
 - Only 2 employees that are a in a manager position will retire in the forseeable future.
 
-![retiring_titles_table]()
+![retiring_titles_table](https://github.com/xanderbilt23/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles_table.png)
 
 ## Summary
 
